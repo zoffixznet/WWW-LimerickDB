@@ -1,0 +1,43 @@
+WWW-LimerickDB
+
+The module provides interface to fetch limericks ("quotes" if you prefer) from
+L<http://limerickdb.com/>
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+	perl Build.PL
+	./Build
+	./Build test
+	./Build install
+
+SUPPORT AND DOCUMENTATION
+
+After installing, you can find documentation for this module with the
+perldoc command.
+
+    perldoc WWW::LimerickDB
+
+You can also look for information at:
+
+    RT, CPAN's request tracker
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=WWW-LimerickDB
+
+    AnnoCPAN, Annotated CPAN documentation
+        http://annocpan.org/dist/WWW-LimerickDB
+
+    CPAN Ratings
+        http://cpanratings.perl.org/d/WWW-LimerickDB
+
+    Search CPAN
+        http://search.cpan.org/dist/WWW-LimerickDB
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2008 'Zoffix
+
+This program is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself.
+

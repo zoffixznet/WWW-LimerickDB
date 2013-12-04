@@ -1,0 +1,21 @@
+Revision history for WWW-LimerickDB
+
+0.0305  October 23, 2008
+        Fixed broken test suit
+
+0.0303  October 19, 2008
+        Changed parser to get the number and rating of limericks, changed the return values.
+
+0.0203  October 18, 2008
+        Fixed a retarded bug that caused unwanted print()s
+
+0.0202  October 18, 2008
+        Fixed a bug that prevented calls to get_cached() without calling anything else first
+
+0.0201  October 18, 2008
+        Added new_line argument/method and get_cached method
+        Fixed a lame bug where only the first lamerick was fine
+
+0.0101  October 18, 2008
+        First version, released on an unsuspecting world.
+
